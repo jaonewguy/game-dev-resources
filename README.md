@@ -20,7 +20,7 @@ Focused compilation of resources found for anything related to the entire game d
 - [Celeste Source Code](https://github.com/NoelFB/Celeste) - One of the modern gold standards for tight controls in 2d platformers
 
 ### Focused Tutorials
-- [Unprofessional Guide About How To Make FPS Game In Unity]https://www.youtube.com/watch?v=CmEyXX-7EAc - Clean breakdown on all aspects of how to make an FPS game in unity
+- [Unprofessional Guide About How To Make FPS Game In Unity](https://www.youtube.com/watch?v=CmEyXX-7EAc) - Clean breakdown on all aspects of how to make an FPS game in unity
 
 
 ## :video_game: General Design

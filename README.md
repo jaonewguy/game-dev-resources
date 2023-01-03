@@ -22,6 +22,8 @@ Focused compilation of resources found for anything related to the entire game d
 ### Focused Tutorials
 - [Unprofessional Guide About How To Make FPS Game In Unity](https://www.youtube.com/watch?v=CmEyXX-7EAc) - Clean breakdown on all aspects of how to make an FPS game in unity
 
+### Math
+- https://www.reddit.com/r/gamedev/comments/100cfha/math_for_game_development_where_to_start_for_a/
 
 ## :video_game: General Design
 
@@ -59,4 +61,6 @@ Focused compilation of resources found for anything related to the entire game d
 - https://www.reddit.com/r/TechnicalArtist/comments/jukj4k/the_best_path_to_becoming_a_technical_artist/
 - https://www.reddit.com/r/animationcareer/comments/ufe648/software_programmer_technical_artist/
 
+### Finished game post-mortems
+- https://www.reddit.com/r/gamedev/comments/100s7so/kainga_postmortem_how_earning_200k_as_a_solo_dev/
 

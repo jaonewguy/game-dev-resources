@@ -7,6 +7,7 @@ Focused compilation of resources found for anything related to the entire game d
 ### Mega-compilations
 - [awesome-gamedev](https://github.com/Calinou/awesome-gamedev) - Mega compilation of free game dev resources
 - [awesome-godot](https://github.com/godotengine/awesome-godot) - Mega compilation of free Godot resources
+- [procgen.space](https://procgen.space/) - Procedural generation mega list
 
 ### Architecture
 - [Game Programming Patterns by Robert Nystrom](https://gameprogrammingpatterns.com/) - Holy grail of design patterns for game dev

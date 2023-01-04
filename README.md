@@ -18,6 +18,7 @@ Focused compilation of resources found for anything related to the entire game d
 - [Official Godot guides](https://docs.godotengine.org/en/stable/getting_started/introduction/index.html)
 - [Godot Recipes](https://kidscancode.org/godot_recipes/3.x/) - Detailed and concise breakdown of game concepts for Godot
 - [Why isn't Godot an ECS-based engine](https://godotengine.org/en/article/why-isnt-godot-ecs-based-game-engine) - Engine-specific breakdown on why Godot doesn't use ECS innately
+- [VR - Godot Oculus Quest Toolkit](https://github.com/NeoSpark314/godot_oculus_quest_toolkit)
 
 ### Unity
 - [Unity GMTK Tutorial 45-min](https://www.youtube.com/watch?v=XtQMytORBmM) - Wonderful guide for creating a flappy bird ripoff while getting familiar in Unity
@@ -28,6 +29,10 @@ Focused compilation of resources found for anything related to the entire game d
 
 ### Focused Tutorials
 - [Unprofessional Guide About How To Make FPS Game In Unity](https://www.youtube.com/watch?v=CmEyXX-7EAc) - Clean breakdown on all aspects of how to make an FPS game in unity
+
+### Free Assets - quick assets for prototyping
+- [itch.io free assets](https://itch.io/game-assets/free)
+- [kenney.nl free assets](https://kenney.nl/assets)
 
 ### Math
 - https://www.reddit.com/r/gamedev/comments/100cfha/math_for_game_development_where_to_start_for_a/
@@ -48,13 +53,21 @@ Focused compilation of resources found for anything related to the entire game d
 ### Animation
 - [Video Game Animation Study](https://www.youtube.com/@VideoGameAnimationStudy) - Analysis of popular game series animations
 - [New Frame Plus](https://www.youtube.com/@NewFramePlus) - Analysis of popular game series animations
-
+- [Learn Disney's 12 rules of animation from these GIFs](https://www.digitalartsonline.co.uk/features/motion-graphics/learn-disneys-12-rules-of-animation-from-these-gifs/#7)
 
 ### Drawing
 - [drawabox.com](https://drawabox.com/) - Amazing & free in-depth resource, highly recommended by r/ArtFundamentals
 
+### Vector Art Software
+- [Vectornator (Free)](https://www.vectornator.io/)
+
+### Pixel Art Software
+
 ## ✏️ Writing
 - [Stephen King - On Writing](https://www.goodreads.com/book/show/10569.On_Writing)
+
+### Sound
+- [Audacity](https://www.audacityteam.org/) - FOSS audio software
 
 
 ## 📈 Business & Marketing

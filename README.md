@@ -11,7 +11,7 @@ Focused compilation of resources found for anything related to the entire game d
 
 ### Architecture
 - [Game Programming Patterns by Robert Nystrom](https://gameprogrammingpatterns.com/) - Holy grail of design patterns for game dev
-  - [Finite State Machines/Pushdown Automata](https://gameprogrammingpatterns.com/state.html) - Common pattern (FCS/Pushdown)
+  - [Finite State Machines/Pushdown Automata](https://gameprogrammingpatterns.com/state.html) - Common pattern (FSM/Pushdown)
   - [Entity-Component-System](https://gameprogrammingpatterns.com/component.html) - ECS is a popular decoupling pattern, and innate to many game engines like Unreal/Unity
 
 ### Godot-focused

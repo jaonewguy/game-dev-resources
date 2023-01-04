@@ -8,10 +8,16 @@ Focused compilation of resources found for anything related to the entire game d
 - [awesome-gamedev](https://github.com/Calinou/awesome-gamedev) - Mega compilation of free game dev resources
 - [awesome-godot](https://github.com/godotengine/awesome-godot) - Mega compilation of free Godot resources
 
+### Architecture
+- [Game Programming Patterns by Robert Nystrom](https://gameprogrammingpatterns.com/) - Holy grail of design patterns for game dev
+  - [Finite State Machines/Pushdown Automata](https://gameprogrammingpatterns.com/state.html) - Common pattern (FCS/Pushdown)
+  - [Entity-Component-System](https://gameprogrammingpatterns.com/component.html) - ECS is a popular decoupling pattern, and innate to many game engines like Unreal/Unity
+
 ### Godot-focused
 
 - [Official Godot guides](https://docs.godotengine.org/en/stable/getting_started/introduction/index.html)
 - [Godot Recipes](https://kidscancode.org/godot_recipes/3.x/) - Detailed and concise breakdown of game concepts for Godot
+- [Why isn't Godot an ECS-based engine](https://godotengine.org/en/article/why-isnt-godot-ecs-based-game-engine) - Engine-specific breakdown on why Godot doesn't use ECS innately
 
 ### Unity
 - [Unity GMTK Tutorial 45-min](https://www.youtube.com/watch?v=XtQMytORBmM) - Wonderful guide for creating a flappy bird ripoff while getting familiar in Unity

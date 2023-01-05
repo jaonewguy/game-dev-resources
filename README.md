@@ -30,6 +30,8 @@ Focused compilation of resources found for anything related to the entire game d
 
 ### Focused Tutorials
 - [Unprofessional Guide About How To Make FPS Game In Unity](https://www.youtube.com/watch?v=CmEyXX-7EAc) - Clean breakdown on all aspects of how to make an FPS game in unity
+- [(Godot3.2) HeartBeast 2D Action RPG Tutorial](https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a) - Appropriate for developers. **Warning**: Uses Godot 3.2, so there will be some incompatibilities with new versions.
+- [(Godot3.4) HeartBeast 2D Platformer Tutorial](https://www.youtube.com/playlist?list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f-Cm) - Appropriate for developers. Slightly less in-depth than the above.
 
 ### Free Assets - quick assets for prototyping
 - [itch.io free assets](https://itch.io/game-assets/free)

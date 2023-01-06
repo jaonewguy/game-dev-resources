@@ -36,6 +36,7 @@ Focused compilation of resources found for anything related to the entire game d
 ### Free Assets - quick assets for prototyping
 - [itch.io free assets](https://itch.io/game-assets/free)
 - [kenney.nl free assets](https://kenney.nl/assets)
+- [opengameart.org](https://opengameart.org/) - amazing sound bites here
 
 ### Math
 - https://www.reddit.com/r/gamedev/comments/100cfha/math_for_game_development_where_to_start_for_a/

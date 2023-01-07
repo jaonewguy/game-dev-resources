@@ -33,10 +33,11 @@ Focused compilation of resources found for anything related to the entire game d
 - [(Godot3.2) HeartBeast 2D Action RPG Tutorial](https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a) - Appropriate for developers. **Warning**: Uses Godot 3.2, so there will be some incompatibilities with new versions.
 - [(Godot3.4) HeartBeast 2D Platformer Tutorial](https://www.youtube.com/playlist?list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f-Cm) - Appropriate for developers. Slightly less in-depth than the above.
 
-### Free Assets - quick assets for prototyping
+### Free Assets - quick assets for prototyping and game jams
 - [itch.io free assets](https://itch.io/game-assets/free)
 - [kenney.nl free assets](https://kenney.nl/assets)
 - [opengameart.org](https://opengameart.org/) - amazing sound bites here
+- [Pixel Art Palette](https://lospec.com/palette-list)] - Pixel Art help & color palettes
 
 ### Math
 - https://www.reddit.com/r/gamedev/comments/100cfha/math_for_game_development_where_to_start_for_a/

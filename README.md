@@ -27,6 +27,7 @@ Focused compilation of resources found for anything related to the entire game d
 ### Open-source game-specific examples
 - [Celeste Source Code](https://github.com/NoelFB/Celeste) - One of the modern gold standards for tight controls in 2d platformers
   - https://maddythorson.medium.com/celeste-and-towerfall-physics-d24bd2ae0fc5 - Supplementary reading by author
+- [Duelyst](https://github.com/open-duelyst/duelyst)
 
 ### Focused Tutorials
 - [Unprofessional Guide About How To Make FPS Game In Unity](https://www.youtube.com/watch?v=CmEyXX-7EAc) - Clean breakdown on all aspects of how to make an FPS game in unity

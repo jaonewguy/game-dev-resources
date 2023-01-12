@@ -37,7 +37,7 @@ Focused compilation of resources found for anything related to the entire game d
 - [itch.io free assets](https://itch.io/game-assets/free)
 - [kenney.nl free assets](https://kenney.nl/assets)
 - [opengameart.org](https://opengameart.org/) - amazing sound bites here
-- [Pixel Art Palette](https://lospec.com/palette-list)] - Pixel Art help & color palettes
+- [Pixel Art Palette](https://lospec.com/palette-list) - Pixel Art help & color palettes
 
 ### Math
 - https://www.reddit.com/r/gamedev/comments/100cfha/math_for_game_development_where_to_start_for_a/
@@ -74,6 +74,9 @@ Focused compilation of resources found for anything related to the entire game d
 ### Sound
 - [Audacity](https://www.audacityteam.org/) - FOSS audio software
 
+## Game Jams
+
+- [Ludum Dare](https://ldjam.com/) - Multiple times a year, online, open to all. Very fun, constructive, and encouraging.
 
 ## 📈 Business & Marketing
 

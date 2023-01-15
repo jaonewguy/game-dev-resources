@@ -93,3 +93,9 @@ Focused compilation of resources found for anything related to the entire game d
 ### Finished game post-mortems
 - https://www.reddit.com/r/gamedev/comments/100s7so/kainga_postmortem_how_earning_200k_as_a_solo_dev/
 
+## Cool Portfolios/Blogs/Devlogs
+- https://kennypark.xyz/ - Unity/Godot/Renders
+- https://fistoftheforgotten.com/devlog/ - Godot
+
+
+

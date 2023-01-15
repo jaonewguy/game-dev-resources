@@ -82,6 +82,7 @@ Focused compilation of resources found for anything related to the entire game d
 ## 📈 Business & Marketing
 
 - [https://howtomarketagame.com/](https://howtomarketagame.com/) - Popular and dense analysis of meta game trends & marketing tips
+- [https://games-stats.com/](https://games-stats.com/) - Need Pro version for grainier detail. But free already shows plenty of revenue trends by genre.
 
 ## 🗣️ Discussion
 

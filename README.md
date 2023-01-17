@@ -13,6 +13,9 @@ Focused compilation of resources found for anything related to the entire game d
 - [Game Programming Patterns by Robert Nystrom](https://gameprogrammingpatterns.com/) - Holy grail of design patterns for game dev
   - [Finite State Machines/Pushdown Automata](https://gameprogrammingpatterns.com/state.html) - Common pattern (FSM/Pushdown)
   - [Entity-Component-System](https://gameprogrammingpatterns.com/component.html) - ECS is a popular decoupling pattern, and innate to many game engines like Unreal/Unity
+  
+### AI
+- [Into the Breach AI - from reddit AMA](https://www.reddit.com/r/pcgaming/comments/10dwycx/we_are_subset_games_developer_of_ftl_and_into_the/j4nvpom/?context=1)
 
 ### Godot-focused
 

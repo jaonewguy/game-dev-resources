@@ -43,6 +43,9 @@ Focused compilation of resources found for anything related to the entire game d
 - [opengameart.org](https://opengameart.org/) - amazing sound bites here
 - [Pixel Art Palette](https://lospec.com/palette-list) - Pixel Art help & color palettes
 
+### Animation (In Dev)
+- [Easings](https://easings.net/) - Fantastic visualizer for tween animations
+
 ### Math
 - https://www.reddit.com/r/gamedev/comments/100cfha/math_for_game_development_where_to_start_for_a/
 

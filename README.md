@@ -101,6 +101,7 @@ Focused compilation of resources found for anything related to the entire game d
 - https://www.reddit.com/r/gamedev/comments/100s7so/kainga_postmortem_how_earning_200k_as_a_solo_dev/
 
 ## Cool Portfolios/Blogs/Devlogs
+- https://www.raphkoster.com/ - Maker of Ultima Online and Author of "Theory of Fun" (recommended reading)
 - https://kennypark.xyz/ - Unity/Godot/Renders
 - https://fistoftheforgotten.com/devlog/ - Godot
 

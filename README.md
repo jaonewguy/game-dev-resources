@@ -60,6 +60,10 @@ Focused compilation of resources found for anything related to the entire game d
 - [Game Dev Field Guide](https://open.spotify.com/show/7MHCdZLUyHLjmb3zc2XmJR?si=d3d220bccc314218) - Great series, highly recommend for beginners to start chronologically from 001
 
 
+## 🖌 Graphics & Computational Rendering
+-[Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+
+
 ## 🎨 Art
 
 ### Animation

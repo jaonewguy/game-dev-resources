@@ -61,8 +61,10 @@ Focused compilation of resources found for anything related to the entire game d
 
 
 ## 🖌 Graphics & Computational Rendering
--[Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
+### Ray Tracing
+-[Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) - C++ tutorial for ray tracing. Get nerd-sniped 🤓
+-[Ray Tracing for those who skipped math](https://zserge.com/posts/raytracer/) - supplemental resource for ray tracing and its vector math
 
 ## 🎨 Art
 

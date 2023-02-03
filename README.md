@@ -45,6 +45,7 @@ Focused compilation of resources found for anything related to the entire game d
 
 ### Animation (In Dev)
 - [Easings](https://easings.net/) - Fantastic visualizer for tween animations
+- [Khan Academy Animation - Pixar in a box](https://www.khanacademy.org/computing/pixar/storytelling/we-are-all-storytellers/v/storytelling-introb)
 
 ### Math
 - https://www.reddit.com/r/gamedev/comments/100cfha/math_for_game_development_where_to_start_for_a/

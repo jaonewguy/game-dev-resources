@@ -26,6 +26,7 @@ Focused compilation of resources found for anything related to the entire game d
 
 ### Unity
 - [Unity GMTK Tutorial 45-min](https://www.youtube.com/watch?v=XtQMytORBmM) - Wonderful guide for creating a flappy bird ripoff while getting familiar in Unity
+- [2023 Unity 10 hour full tutorial by CodeMonkey](https://www.youtube.com/watch?v=AmGSEH7QcDg) - Excellent modern top-to-bottom guide for Unity
 
 ### Open-source game-specific examples
 - [Celeste Source Code](https://github.com/NoelFB/Celeste) - One of the modern gold standards for tight controls in 2d platformers

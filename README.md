@@ -26,6 +26,7 @@ Focused compilation of resources found for anything related to the entire game d
 
 ### Unity
 - [Unity GMTK Tutorial 45-min](https://www.youtube.com/watch?v=XtQMytORBmM) - Wonderful guide for creating a flappy bird ripoff while getting familiar in Unity
+- [catlikecoding Unity resources](https://catlikecoding.com/unity/tutorials/) - If you prefer learning via text, this covers unity nicely. I would recommend the Basics tutorials before moving onto the other chapters (or resources below)
 - [2023 Unity 10 hour full tutorial by CodeMonkey](https://www.youtube.com/watch?v=AmGSEH7QcDg) - Excellent modern top-to-bottom guide for Unity
 
 ### Open-source game-specific examples

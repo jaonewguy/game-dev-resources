@@ -44,6 +44,7 @@ Focused compilation of resources found for anything related to the entire game d
 - [kenney.nl free assets](https://kenney.nl/assets)
 - [opengameart.org](https://opengameart.org/) - amazing sound bites here
 - [Pixel Art Palette](https://lospec.com/palette-list) - Pixel Art help & color palettes
+- [https://freesound.org/](https://freesound.org/) - Freesound is a collaborative database of Creative Commons Licensed sounds. Browse, download and share sounds.
 
 ### Animation (In Dev)
 - [Easings](https://easings.net/) - Fantastic visualizer for tween animations

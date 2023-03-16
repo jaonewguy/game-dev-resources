@@ -46,6 +46,10 @@ Focused compilation of resources found for anything related to the entire game d
 - [Pixel Art Palette](https://lospec.com/palette-list) - Pixel Art help & color palettes
 - [https://freesound.org/](https://freesound.org/) - Freesound is a collaborative database of Creative Commons Licensed sounds. Browse, download and share sounds.
 
+### Paid Assets
+- [shapeforms audio](ttps://www.shapeforms.com/) - hq audio bundles for games
+- [textures.com](https://www.textures.com/) - gives some free credits for initial use
+
 ### Animation (In Dev)
 - [Easings](https://easings.net/) - Fantastic visualizer for tween animations
 - [Khan Academy Animation - Pixar in a box](https://www.khanacademy.org/computing/pixar/storytelling/we-are-all-storytellers/v/storytelling-introb)

@@ -45,6 +45,7 @@ Focused compilation of resources found for anything related to the entire game d
 - [opengameart.org](https://opengameart.org/) - amazing sound bites here
 - [Pixel Art Palette](https://lospec.com/palette-list) - Pixel Art help & color palettes
 - [https://freesound.org/](https://freesound.org/) - Freesound is a collaborative database of Creative Commons Licensed sounds. Browse, download and share sounds.
+- [SFX generator](https://sfxr.me/) - Good way to generate SFX placeholders or quick SFX
 
 ### Paid Assets
 - [shapeforms audio](ttps://www.shapeforms.com/) - hq audio bundles for games
